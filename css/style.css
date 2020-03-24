@@ -17,8 +17,12 @@ body {
 	padding: 0 45px 20px;
 }
 
+/* Write all remaining styles here */
+
 .header {
   text-align: right;
 }
 
-/* Write all remaining styles here */
+.img {
+  margin: auto;
+}
