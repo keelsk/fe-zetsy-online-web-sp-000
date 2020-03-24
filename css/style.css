@@ -60,7 +60,7 @@ img#featured {
   border: 5px solid rgb(204, 204, 204);
 }
 
-#press-img img:hover {
+#press-img a:hover {
   color: rgb(114, 127, 122);
 }
 
