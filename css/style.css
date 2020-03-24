@@ -37,3 +37,7 @@ img#featured {
   margin: auto;
   border: 5px solid rgb(156, 172, 167);
 }
+
+p.last {
+  font-size: 0.8em;
+}
