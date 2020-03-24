@@ -43,6 +43,11 @@ img#featured {
   border: 5px solid rgb(156, 172, 167);
 }
 
+a#featured {
+  color: #1783bb;
+  text-decoration: none;
+}
+
 img.press {
   border: 5px solid rgb(204, 204, 204);
 }
