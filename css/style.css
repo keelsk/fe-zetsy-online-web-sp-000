@@ -55,6 +55,11 @@ img#featured {
 img.press {
   border: 5px solid rgb(204, 204, 204);
 }
+
+img.press:hover {
+  color: rgb(114, 127, 122);
+}
+
 #copyright{
   font-size: 0.8em;
   text-align: right;
