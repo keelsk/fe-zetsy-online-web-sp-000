@@ -52,6 +52,10 @@ img#featured {
   text-decoration: none;
 }
 
+#info a:hover {
+  text-decoration: underline;
+}
+
 img.press {
   border: 5px solid rgb(204, 204, 204);
 }
