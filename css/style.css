@@ -33,6 +33,10 @@ h1 {
     border-bottom: 1px solid #ccc;
 }
 
+h1 a:hover {
+  color: rgb(114, 127, 122);
+}
+
 h2 {
   color: rgb(111,127,122);
   font-size: 2em;
