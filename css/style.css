@@ -17,4 +17,8 @@ body {
 	padding: 0 45px 20px;
 }
 
+.header {
+  text-align: right;
+}
+
 /* Write all remaining styles here */
