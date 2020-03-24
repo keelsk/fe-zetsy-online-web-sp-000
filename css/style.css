@@ -23,7 +23,7 @@ header {
   text-align: right;
 }
 
-#featured img {
+img#featured {
   margin: auto;
   border: 5px solid rgb(156, 172, 167);
 }
