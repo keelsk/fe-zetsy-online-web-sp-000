@@ -43,7 +43,7 @@ img#featured {
   border: 5px solid rgb(156, 172, 167);
 }
 
-a#info {
+#info a {
   color: #1783bb;
   text-decoration: none;
 }
