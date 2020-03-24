@@ -60,8 +60,8 @@ img#featured {
   border: 5px solid rgb(204, 204, 204);
 }
 
-#press-img a:hover {
-  color: rgb(114, 127, 122);
+#press-img img:hover {
+  border: rgb(114, 127, 122);
 }
 
 #copyright{
